@@ -5,8 +5,41 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+- ** Tourism Problem Solution**:
+- # Overview
+This project addresses common challenges in the tourism industry by implementing a **Booking System**, **Recommendation Model**, and **Guidance System**. The solution is built using **Design and Analysis of Algorithms (DAA)** to ensure optimal performance.
+
+---
+
+# Features
+
+### 1. Booking System
+- **Chain Hashing** is used for efficient storage and retrieval of bookings.
+- Fast conflict resolution and seamless data management.
+
+### 2. Recommendation Model
+- **Graph Algorithms** (e.g., Dijkstra's or A*) recommend optimal travel routes and destinations.
+- **KMP Algorithm** is implemented to match user preferences with destination features.
+
+### 3. Guidance System
+- **Shortest Path Algorithms** are used for in-trip navigation and assistance.
+- Multi-criteria decision-making is integrated using optimization techniques.
+
+---
+
+## Technical Stack
+- **Language:** C++/Java
+- **Algorithms:** Chain Hashing, KMP, Graph Algorithms (Dijkstra's, A*)
+- **Tools:** Data structures (hash tables, graphs), algorithmic optimizations
+
+---
+
+## Impact
+- **Efficiency:** Provides fast and accurate booking management.
+- **Personalization:** Recommends destinations tailored to user preferences.
+- **Navigation:** Offers reliable guidance and optimal route suggestions.
+
+---
 
 ## 🚀 Skills
 - C++, Python, Java
