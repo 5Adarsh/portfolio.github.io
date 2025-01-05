@@ -7,7 +7,7 @@ I am passionate about leveraging technology to solve real-world problems and mak
 
 ---
 
-## 🛠️ **Projects**  
+## 🛠️ **Projects**   
 
 ### 🏞️ **Tourism Problem Solution**  
 **Overview:**  
