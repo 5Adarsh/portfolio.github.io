@@ -56,10 +56,10 @@ A comprehensive solution addressing challenges in the tourism industry with thre
 - Focus: Algorithmic Problem Solving for Tourism Solutions  
 
 ### 📋 **Details:**  
-- **Course Code:** *CS301*  
+- **Course Code:** *24ECAP202*  
 - **Name:** ADARSH KAKATKAR  
 - **SRN:** 02FE23BCI054  
-- **Course Instructor:** *To Be Added*  
+- **Course Instructor:** PRIYANKA GAVADE
 - **University:** KLE TECH  
 
 ---
